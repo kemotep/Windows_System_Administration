@@ -1,30 +1,13 @@
-# Windows Scripts Repository
+# Windows System Administration
  
-
 This is a GitLab repository of my various Windows Scripts (PowerShell and Batch Files). I plan on including some text resources, links, and other best practices I find for administering Windows.
 
-## Table of Contents
-TODO: change hyperlinks
 
 ## Getting Started
 TODO
 Here is where I will place instructions on how to use this repository. Eventually there will be instructions an explanations for each script, as well as a table of contents.
 
 You should be using script signing when you use PowerShell scripts. Allowing unsigned PowerShell scripts is a security risk. `RemoteSigned` is a recommended Execution policy. Read the Official documentation [here](https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_execution_policies?view=powershell-5.1)
-
-
-## Notes
-
-I will also be including my own notes for Windows Management in this repository. I will also include links to resources, guides, documentation, and communities.
-
-  ### [Exchange Management](https://github.com/kemotep/Windows/blob/master/Notes/Exchange%20Management.md)
-  
-  This is a list of all the Exchange Online commands that I know and example outputs. Very useful for managing Exchange. This list is not comprehensive. I plan to create a script/module that can run all of this from one window.
-
-  ### [Links](https://github.com/kemotep/Windows/blob/master/Notes/Links.md)
-  
-  Here will be links to resources and communities that I use.
-
 
 ## Built With
 
